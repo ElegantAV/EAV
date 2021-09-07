@@ -3360,30 +3360,6 @@ ul.customlist li i {
 	text-align: center;
 }
 
-.facebook
-{
-	background: #3b5998;
-}
-.youtube
-{
-	background: #ff0000;	
-}
-.linkedin
-{
-	background: #007bb5;	
-}
-.instagram
-{
-	background: #ff4800;
-}
-
-.icons ul li:hover
-{
-	padding-right: 30px;
-	width: 80px;
-	transition:1s;
-	
-}
 
 
 

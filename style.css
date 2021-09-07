@@ -3330,7 +3330,53 @@ ul.customlist li i {
 
 /*-----Sticky icons-----*/
 
+.icons
+{
+	top: 50%;
+	right: 0px;
+	transform: translateY(-50%);
+	position: fixed;
+	z-index: 100; 
+}
 
+.icons ul
+{
+	padding: initial;
+}
+.icons i
+{
+	color: #ffffff;
+}
+
+.icons ul li
+{
+	height: 30px;
+	width: 30px;
+	list-style-type: none;
+	padding-right: 6px;
+	padding-top: 6px;
+	margin-top:5px;
+	color: #ffffff; 
+	/* background: #000000; */
+	text-align: center;
+}
+
+.facebook
+{
+	background: #3b5998;
+}
+.youtube
+{
+	background: #ff0000;	
+}
+.linkedin
+{
+	background: #007bb5;	
+}
+.instagram
+{
+	background: #ff4800;
+}
 
 
 

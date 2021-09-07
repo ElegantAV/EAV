@@ -3334,7 +3334,7 @@ ul.customlist li i {
 	top: 50%;
 	right: 0px;
 	transform: translateY(-50%);
-	position: fixed;
+	position: absolute;
 	z-index: 100; 
 }
 

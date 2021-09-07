@@ -10,7 +10,7 @@
 	Version: 1.1
 	
 	All files, unless otherwise stated, are released under the GNU General Public License
-	version 3.0 (http://www.gnu.org/licenses/gpl-3.0.html)
+	version 3.0 (http://www.gnu.org/licenses/gpl-3.0.html)/
 
 -----------------------------------------------------------------------------------
 
@@ -3333,7 +3333,7 @@ ul.customlist li i {
 {
 	top: 50%;
 	right: 0px;
-	transform: translateY(-50%);
+	/*transform: translateY(-50%);*/
 	position: fixed;
 	z-index: 100; 
 }

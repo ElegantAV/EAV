@@ -3338,5 +3338,13 @@ ul.customlist li i {
 	z-index: 100; 
 }
 
+.icons ul li:hover
+{
+	padding-right: 30px;
+	width: 80px;
+	transition:1s;
+	
+}
+
 
 

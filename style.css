@@ -3329,14 +3329,7 @@ ul.customlist li i {
 }  
 
 /*-----Sticky icons-----*/
-.icons
-{
-	top: 50%;
-	right: 0px;
-	transform: translateY(-50%);
-	position: fixed;
-	z-index: 100; 
-}
+
 
 
 

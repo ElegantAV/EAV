@@ -3338,6 +3338,15 @@ ul.customlist li i {
 	z-index: 100; 
 }
 
+.icons ul
+{
+	padding: initial;
+}
+.icons i
+{
+	color: #ffffff;
+}
+
 .icons ul li
 {
 	height: 30px;
@@ -3349,6 +3358,23 @@ ul.customlist li i {
 	color: #ffffff; 
 	/* background: #000000; */
 	text-align: center;
+}
+
+.facebook
+{
+	background: #3b5998;
+}
+.youtube
+{
+	background: #ff0000;	
+}
+.linkedin
+{
+	background: #007bb5;	
+}
+.instagram
+{
+	background: #ff4800;
 }
 
 .icons ul li:hover

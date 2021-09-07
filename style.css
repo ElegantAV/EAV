@@ -3338,6 +3338,19 @@ ul.customlist li i {
 	z-index: 100; 
 }
 
+.icons ul li
+{
+	height: 30px;
+	width: 30px;
+	list-style-type: none;
+	padding-right: 6px;
+	padding-top: 6px;
+	margin-top:5px;
+	color: #ffffff; 
+	/* background: #000000; */
+	text-align: center;
+}
+
 .icons ul li:hover
 {
 	padding-right: 30px;
